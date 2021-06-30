@@ -1,0 +1,72 @@
+.jumbotron {
+    text-align: center;
+    color: rgb(255, 253, 253);
+    background: linear-gradient(90deg, rgb(129, 150, 169) 25%,#090e13d5);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 3px solid rgb(82, 80, 80);
+}
+
+.text {
+    text-align: center;
+    color: rgb(57, 56, 56);
+    font-size: 30px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+button {
+    background-color: #0a1826d5;
+    border-radius: 5px;
+}
+
+button, i:hover {
+    color: rgb(241, 249, 245);
+    padding: 5px;
+    font-size: 30px;
+}
+
+
+hr.solid {
+    border-top: 3px solid rgb(33, 32, 32);
+}
+
+li {
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-size: 20px;
+    list-style-type: none;
+}
+
+h2 {
+    text-align: center;
+}
+
+.container {
+    border-radius: 5px;
+    border: 3px solid rgb(33, 32, 32);
+}
+
+.cityName {
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cardBody {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    
+
+.five-day-card-body {
+    padding: 60px;
+    background-color: rgb(54, 54, 67);
+    color: rgb(242, 252, 247);
+}
+    
+.dateName {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#five-card-group {
+    justify-content: center;
+}
