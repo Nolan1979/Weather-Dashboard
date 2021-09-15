@@ -16,3 +16,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 Live Link: https://nolan1979.github.io/Weather-Dashboard/
+
+
+## Questions
+Having an issue? Email me with any questions about the app nolanjosh1979@gmail.com
